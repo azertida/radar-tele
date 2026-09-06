@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T12:02:39.221242+00:00",
-  "window_start": "2026-09-05",
-  "window_end": "2026-09-12",
+  "generated_at": "2026-09-06T09:24:01.277337+00:00",
+  "window_start": "2026-09-06",
+  "window_end": "2026-09-13",
   "source": "Pickx via iptv-org/epg",
   "channels": [
     "France 2",
@@ -34,48 +34,8 @@
     "des",
     "sur"
   ],
-  "count": 5,
+  "count": 3,
   "programmes": [
-    {
-      "start": "2026-09-05T19:10:00+00:00",
-      "stop": "2026-09-05T20:40:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres au Puy-en-Velay",
-      "description": "Dans les gorges du Verdon, enquête sur le meurtre d'un homme de 78 ans, retrouvé mort sur le barrage de Castillon dans une position étrange.",
-      "category": "Séries",
-      "icon": ""
-    },
-    {
-      "start": "2026-09-05T19:16:00+00:00",
-      "stop": "2026-09-05T20:57:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à Sandhamn",
-      "subtitle": "Amanda",
-      "description": "Un braquage tourne mal et se transforme en enlèvement involontaire lorsque les malfaiteurs s'emparent d'un bateau sans se rendre compte que la petite fille du propriétaire se trouve encore à bord. Alexander et Valpen sont les premiers à intervenir, mais ne parviennent pas à empêcher la fuite des braqueurs. Nora découvre qu'une fenêtre a été brisée dans la maison de son voisin. En s'en approchant, elle se retrouve au cœur des événements. De leur côté, Nora et Alexander ont commencé, chacun de leur côté, à regarder des bagues de fiançailles. Ils seront bientôt prêts à se marier.",
-      "category": "Séries",
-      "icon": ""
-    },
-    {
-      "start": "2026-09-05T22:15:00+00:00",
-      "stop": "2026-09-05T23:50:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Figeac",
-      "description": "Pour la première fois depuis un an, Manon retourne à Figeac pour un bref séjour. Après la disparition d'Alexandre, son mari, dans un accident de la route, elle a préféré s'installer à Toulouse et poursuivre son activité de lieutenant de police dans la ville rose. Le temps d'une journée, pour commémorer le souvenir d'Alexandre, Manon retrouve ceux qui l'avaient presque adoptée. Et les retrouvailles ne sont pas simples Sauf avec Olivier Peyrusse, le frère d'Alexandre. Olivier est un des anciens collègues de Manon. Et comme toute son équipe, il regrette profondément que Manon soit partie. Alors quand Monique Neyrolle, chef d'une famille de propriétaires terriens, est retrouvée momifiée au musée de Figeac, Manon accepte de suivre son beau-frère sur les lieux du crime pour saluer les autres gendarmes.",
-      "category": "Séries",
-      "icon": ""
-    },
-    {
-      "start": "2026-09-05T23:50:00+00:00",
-      "stop": "2026-09-06T01:20:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Arles",
-      "description": "Sarah Cortes est issue d'une famille de manadiers qui élève des taureaux depuis plusieurs générations. Sarah doit se marier à la fin de la semaine avec Louis qu'elle connaît depuis toujours. Le commandant Lucas Pujol est un jeune officier modèle surdiplômé. Entre Sarah et Lucas, une amitié est née comme une évidence, entre le feu et la glace. Deux opposés qui s'attirent sans pour autant reconnaître leurs sentiments, des sentiments certainement plus profonds. Dans les gradins des arènes d'Arles, c'est l'élection de la nouvelle reine de la ville. Mais à l'annonce de son nom, Aline Garnier, ne se présente pas. Soudain la calèche censée emmener la reine pour sa présentation au public, déboule en trombe dans les arènes. Pas de reine à son bord, mais un corps inerte : celui du président de l'association de l'élection. La reine Aline, en vraie Arlésienne, a disparu, ne laissant qu'un pic à cheveux ensanglanté derrière elle.",
-      "category": "Séries",
-      "icon": ""
-    },
     {
       "start": "2026-09-06T01:20:00+00:00",
       "stop": "2026-09-06T02:55:00+00:00",
@@ -83,6 +43,26 @@
       "title": "Meurtres à...",
       "subtitle": "Meurtres dans le Cantal",
       "description": "Le corps de Yann Privat, restaurateur réputé, est retrouvé empoisonné et flottant dans un lac du Cézallier. L'homme était magouilleur en affaire, les suspects ne manquent pas ; mais ici les locaux préfèrent dire que c'est un méfait du Drac, un lutin malfaisant qui empoisonne la vie des gens. Quand un deuxième chef est lui aussi victime d'un empoisonnement fatal, nos deux gendarmes, les capitaines Frédéric Dussaut et Sarah Waro, s'interrogent : la mort d'une restauratrice, quelques mois plus tôt, ne serait-elle pas, également, liée à cette affaire ? Ensemble, ils vont devoir résoudre l'enquête avant qu'un nouvel assassinat n'ait lieu, tout en se confrontant au deuil impossible de leur fils, survenu un an plus tôt, par accident à la Réunion.",
+      "category": "Séries",
+      "icon": ""
+    },
+    {
+      "start": "2026-09-12T19:10:00+00:00",
+      "stop": "2026-09-12T20:40:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Château-Thierry",
+      "description": "À Château-Thierry, pays de Jean de La Fontaine, le président du tribunal est retrouvé mort sur les marches du palais de justice. Sur le corps, le meurtrier a laissé des indices faisant référence à la fable \"Les Animaux malades de la peste\". L'enquête est confiée au capitaine Laetitia Alfonsi, qui n'est autre que la fille illégitime de la victime. Lorsque Thibault, le fils légitime, vient la menacer de révéler son lien de parenté, elle se voit obligée de faire équipe avec ce demi-frère arrogant. Un deuxième meurtre inspiré par la fable va précipiter la collaboration de ce duo inattendu. Ensemble, frère et soeur apprendront à faire équipe et peut-être même à se voir comme une famille.",
+      "category": "Séries",
+      "icon": ""
+    },
+    {
+      "start": "2026-09-12T20:40:00+00:00",
+      "stop": "2026-09-12T22:15:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Orléans",
+      "description": "Durant la procession des fêtes de Jeanne d'Arc, Clotilde Duvivier, la jeune fille qui incarnait Jeanne d'Arc, est assassinée d'un carreau d'arbalète en plein cœur. Une partie de phrase en latin est inscrite sur le carreau en question. Le commandant Charlotte Marat va enquêter sur l'affaire avec l'aide de son gendre Philippe Cransac, lui-même policier...",
       "category": "Séries",
       "icon": ""
     }
